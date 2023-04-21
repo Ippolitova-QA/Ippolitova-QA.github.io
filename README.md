@@ -1,2 +1,2 @@
-# qa-ippolitova.github.io
-Сайт-визитка
+# cv
+Сайт визитка на HTML + CSS + JS
